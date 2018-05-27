@@ -1,0 +1,84 @@
+[ {
+"storename":"Rami Levi",
+"city":"Hadera",
+"street":"Ha-Shalom 1",
+"latitude":"32.4554900",
+"longitude":"34.9051270"
+},
+{
+"storename":"Rami Levi",
+"city":"Zikhron Ya'akov",
+"street":"Western industrial zone",
+"latitude":"32.5693440",
+"longitude":"34.9334530"
+},
+{
+"storename":"Rami Levi",
+"city":"Haifa",
+"street":"Halutsei HaTa'asiya 73",
+"latitude":"32.8187070",
+"longitude":"35.0536680"
+},
+{
+"storename":"Shufersal Deal",
+"city":"Pardes Hanna-Karkur",
+"street":"Derech HaBanim 15",
+"latitude":"32.4763930",
+"longitude":"34.9766710"
+},
+{
+"storename":"Shufersal Deal",
+"city":"Or Akiva"
+,"street":"Sderot HaNassi Weizmann"
+,"latitude":"32.5023370"
+,"longitude":"34.9272680"
+},
+{
+"storename":"Shufersal Deal",
+"city":"Tirat Carmel",
+"street":"Nahum Het 5",
+"latitude":"32.7831400",
+"longitude":"34.9594770"
+},
+{
+"storename":"Shufersal Sheli",
+"city":"Zikhron Ya'akov",
+"street":"HaDagan 2",
+"latitude":"32.5684450",
+"longitude":"34.9550000"
+},
+{ 
+"storename":"Shufersal Sheli",
+"city":"Haifa",
+"street":"Oren 25",
+"latitude":"32.7847050",
+"longitude":"34.9964780"
+},
+{
+"storename":"Shufersal Sheli",
+"city":"Haifa",
+"street":"Vardiya 10",
+"latitude":"32.7949870",
+"longitude":"34.9963890"
+},
+{
+"storename":"Yenot Bitan",
+"city":"Or Akiva",
+"street":"Ha-Ilan 2",
+"latitude":"32.5146290",
+"longitude":"34.9232780"
+},
+{
+"storename":"Yenot Bitan",
+"city":"Atlit",
+"street":"Ha-Harduf 12",
+"latitude":"32.6901140",
+"longitude":"34.9400650"
+},
+{
+"storename":"Yenot Bitan",
+"city":"Tirat Carmel",
+"street":"Keren ha-Yesod 2",
+"latitude":"32.7684920",
+"longitude":"34.9682430"
+} ]
